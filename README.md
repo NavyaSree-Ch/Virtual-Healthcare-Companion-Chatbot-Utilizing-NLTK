@@ -94,4 +94,4 @@ The project integrates with Google’s Gemini API. To use it, ensure your API ke
 
 ## Contact
 
-For questions or collaboration opportunities, please contact [Naveen Yanamadala](mailto:naveenyd06@gmail.com) .
+For questions or collaboration opportunities, please contact [Naveen Yanamadala](mailto:naveenyd06@gmail.com) | [NavyaSree Ch](mailto:navyasreecheruvupally@gmail.com) | | [Navaneeth V](mailto:navaneethv1000@gmail.com).
