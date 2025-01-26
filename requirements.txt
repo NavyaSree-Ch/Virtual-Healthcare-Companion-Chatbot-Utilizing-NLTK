@@ -1,0 +1,11 @@
+Django
+gradio
+nltk
+scikit-learn
+requests
+google-ai-generativelanguage
+numpy
+pandas
+torch
+google-generativeai
+python-dotenv
